@@ -13,3 +13,7 @@ A modified version of http://stefanstools.sourceforge.net/Evernote2Onenote.html
 
 - Work out a way to import Stack information. Currently it's not provided by ENScript.
 - Import geo location information if available.
+
+## Bugs
+
+- Incorrect source url. Resolved to attachments (pictures)
